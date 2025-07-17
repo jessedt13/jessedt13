@@ -14,7 +14,3 @@
 🌱 Always learning: I’m continuously growing my skills in cybersecurity, Linux, and cloud services.
 
 📬 Feel free to reach out or explore my projects—always open to collaborating and connecting!
-
----
-
-📍 Based in Arizona | 🧠 Always curious | 🥋 MMA practitioner by night
